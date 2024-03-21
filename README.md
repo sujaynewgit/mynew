@@ -2,7 +2,7 @@ pipeline {
     agent any
     stage {
         stage (hello) {
-            echo "Hello Microdegree" {
+            echo "Hello Micro-degree" {
                 
             }
         }
